@@ -1,2 +1,4 @@
 # Website-UAS
-tugas modifikasi web untuk Ujian Akhir Semster Matakuliah pemograman web 1
+Repo untuk 2 Tugas :
+1.Tugas modifikasi web untuk Ujian Akhir Semester
+2.Jawaban Tugas UAS Praktikum
